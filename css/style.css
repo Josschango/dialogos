@@ -1,0 +1,83 @@
+@charset "UTF-8";
+h1{
+	background-color:darkred;
+	color: white;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 4em;
+	font-style:normal;
+	text-align: center;
+	border:double;
+	border-width:thick;
+	height: 90px;
+	padding-top: 10px;
+}
+
+.narrador{
+	color:black;
+	background-color:gainsboro;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-style: italic;
+	font-size: 1em;
+    text-align:justify;
+	margin: 30px;
+	margin-bottom:25px;
+	border: dotted;
+	padding: 20px;
+}
+.personaje1{
+	color: pin;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 1em;
+	background-color:lavenderblush;
+    text-align:justify;
+    width: 400px;
+	margin-left: 400px;
+	margin-bottom: 7px;
+	padding: 20px;
+}
+
+.personaje2{
+	color: black;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 1em;
+	background-color:lavender;
+    text-align:justify;
+    width: 400px;
+	margin-left: 1000px;
+	margin-bottom: 7px;
+	padding: 20px;
+}
+
+.personaje3{
+	color: black;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 1em;
+	background-color:cornsilk; 
+    text-align:justify;
+    width: 650px;
+	margin-left: 550px;
+	margin-bottom: 7px;
+	padding: 20px;
+}
+.personaje4{
+	color: pin;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 1em;
+	background-color:darksalmon;
+    text-align:justify;
+    width: 400px;
+	margin-left: 400px;
+	margin-bottom: 7px;
+	padding: 20px;
+}
+.personaje5{
+	color: pin;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 1em;
+	background-color:lightsteelblue;
+    text-align:justify;
+    width: 400px;
+	margin-left: 700px;
+	margin-bottom: 7px;
+	padding: 20px;
+}
